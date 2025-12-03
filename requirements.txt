@@ -1,6 +1,7 @@
-qiskit 
-qiskit-aer 
-numpy 
-matplotlib 
-scikit-learn
+numpy
 pandas
+matplotlib
+scipy
+torch
+qiskit
+qiskit-aer
